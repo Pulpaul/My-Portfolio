@@ -87,7 +87,7 @@
 			                  <a class="nav-link" href="#proj" data-toggle="tab">Projects</a>
 			                </li>
 			                <li class="nav-item">
-			                  <a class="nav-link" href="http://docs.google.com/gview?url=https://www.paul-myport.cf/assets/Resume.docx">Resume</a>
+			                  <a class="nav-link" href="http://docs.google.com/gview?url=https://www.paul-myport.cf/assets/Resume 1.0.pdf">Resume</a>
 			                </li>
 		                </ul>
 		                <div class="tab-content tab-space">
