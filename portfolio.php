@@ -55,7 +55,7 @@
                     <a href="https://web.facebook.com/PADP.12?ref_component=mfreebasic_home_header&ref_page=%2Fwap%2Fhome.php&refid=7&_rdc=1&_rdr" class="btn btn-just-icon btn-link btn-facebook" data-toggle="tooltip" title="FACEBOOK">
                       <i class="fa fa-facebook-square"></i>
                     </a> 
-                    <a href="https://www.instagram.com/pulpauls/" class="btn btn-just-icon btn-link btn-reddit" data-toggle="tooltip" title="INSTAGRAM">
+                    <a href="https://www.instagram.com/_deandrei/" class="btn btn-just-icon btn-link btn-reddit" data-toggle="tooltip" title="INSTAGRAM">
                       <i class="fa fa-instagram"></i>
                     </a>
                     <a href="https://github.com/Pulpaul" class="btn btn-just-icon btn-link btn-github" data-toggle="tooltip" title="GITHUB">
