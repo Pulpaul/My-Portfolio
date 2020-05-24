@@ -293,7 +293,7 @@
 			                  	<div class="row">
 			                  		<div class="col-md-4">
 			                			<div id="front_e" class="card-header card-header-image">
-						                	<img src="assets/img/sap.png">
+						                	<img src="assets/img/SAP.png">
 						                </div>  
 			                		</div>
 			                		<div class="col-md-8"><br><br>
