@@ -30,7 +30,7 @@
 	  <img id="backg" src="assets/img/codes.jpg">
 	  <div class="logo" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="2000"><img class="lugo" src="assets/img/try.png"></div>
 	  <span class="center" data-aos="zoom-in" data-aos-duration="1500"><b>"CODE WITH PASSION"</b></span>
-	  <a href="portfolio.html" id="btn_con" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2000"> CONTINUE </a> 
+	  <a href="portfolio.php" id="btn_con" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="2000"> CONTINUE </a> 
 	</div> 
 
 	<script src="assets/js/core/jquery.min.js" type="text/javascript"></script>
