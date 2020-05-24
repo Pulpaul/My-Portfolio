@@ -7,7 +7,7 @@ body {
 	height: 30vh;
 } 
 #lagayan {
-	left: 118px;
+	left: 100px;
 	width: 210px;
 }
 #name {
@@ -62,6 +62,6 @@ body {
 } 
 @media screen and (max-width: 375px) { 
     #lagayan {
-        left: 95px;
+        left: 65px;
     }  
 }
