@@ -314,7 +314,7 @@
 			                  	<div class="container">
 			                  		<li>C++</li> 
 			                  		<li>C#</li> 
-			                  	</div>
+			                  	</div> <br>
 			                  	<div class="alert alert-info">OTHER COMPUTER SKILLS</div>
 			                  	<div class="container">
 			                  		<li>Adobe Photoshop</li>
